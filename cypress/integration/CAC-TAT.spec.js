@@ -163,24 +163,4 @@
       cy.contains('h1', 'CAC TAT - Política de privacidade').should('be.visible')
     })
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   })
